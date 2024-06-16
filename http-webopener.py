@@ -139,7 +139,7 @@ urls = [
 'http://180.178.104.106:5678',
 'http://222.165.234.242:41541',
 'http://180.232.171.210:8080',
-
+]
 # Number of times to request each URL
 num_requests = 5
 
