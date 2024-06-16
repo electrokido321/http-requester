@@ -36,7 +36,7 @@ This Python script performs HTTP GET requests to multiple URLs. It can be used f
     urls = [
         'http://example.com',
         'http://another-example.com',
-        # Add more URLs here
+        # You can add yours but i have an list already implemented
     ]
     ```
 
